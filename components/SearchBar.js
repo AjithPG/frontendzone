@@ -13,7 +13,7 @@ export default function SearchBar() {
           className="bg-white pl-11 pr-11 py-3 w-full rounded-xl outline-none"
         />
          <div className="icon absolute right-4 cursor-pointer">
-             <i class="ri-equalizer-line"></i>
+             <i className="ri-equalizer-line"></i>
         </div>
       
       </div>
