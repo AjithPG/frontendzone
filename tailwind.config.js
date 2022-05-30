@@ -12,7 +12,7 @@ module.exports = {
     colors:{
       primary:'#5639FF',
       secondary:'#44435C',
-      secondaryLight:'rgba(79,78,105,62)',
+      secondaryLight:'rgba(68,75,248,6%)',
       primarybg:'rgba(244,247,254,69)',
       white:'#ffffff',
       black:'#010101'
