@@ -1,6 +1,7 @@
 import Head from "next/head";
 import "remixicon/fonts/remixicon.css";
 import Navbar from "../components/Navbar";
+import MainSection from "../components/MainSection";
 
 export default function Home() {
   return (
@@ -11,6 +12,7 @@ export default function Home() {
       </Head>
       <main className="bg-primarybg h-screen w-full">
         <Navbar />
+        <MainSection/>
       </main>
     </div>
   );

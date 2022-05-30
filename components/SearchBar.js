@@ -2,7 +2,7 @@ import React from "react";
 
 export default function SearchBar() {
   return (
-    <div className="relative w-2/4">
+    <div className="relative flex-1 sm:flex-none sm:w-2/4">
       <div className="searchbar flex items-center">
         <div className="icon absolute left-4">
           <i className="ri-search-line"></i>
