@@ -11,9 +11,11 @@ module.exports = {
     },
     colors:{
       primary:'#5639FF',
+      primaryLight:'rgba(86,57,255,0.1)',
       secondary:'#44435C',
       secondaryLight:'rgba(68,75,248,6%)',
-      primarybg:'rgba(244,247,254,69)',
+      grey:'rgba(79,78,105,0.62)',
+      primarybg:'rgba(244,247,254,0.69)',
       white:'#ffffff',
       black:'#010101'
     },
