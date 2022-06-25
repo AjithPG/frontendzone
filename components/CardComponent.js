@@ -10,8 +10,8 @@ export default function CardComponent() {
         height={226}
       />
       <div className="flex flex-wrap md:flex-nowrap justify-between items-center py-3 md:py-4 px-4 gap-1">
-        <p className="text-lg w-full mb-3  md:w-auto md:mb-0">Button Components</p>
-        <button className="py-2 px-4 bg-primary text-white rounded-sm self-center w-full md:w-auto">
+        <p className="text-md w-full mb-3  md:w-auto md:mb-0">Button Components</p>
+        <button className="py-2 px-3 text-sm bg-primary text-white rounded-sm self-center w-full md:w-auto">
           View
         </button>
       </div>
